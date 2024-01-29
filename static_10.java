@@ -1,4 +1,4 @@
-public class static_10 {
+public class Lecture_10static {
     int rollno;
     String name;
     static int count = 0;
