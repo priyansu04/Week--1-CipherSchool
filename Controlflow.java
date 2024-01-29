@@ -15,7 +15,7 @@ class Student {
     }
 }
 
-// Main class named 'Controlflow_8'
+// Main class named 'Controlflow'
 public class Controlflow {
 
     // Method to find the maximum of three integers
